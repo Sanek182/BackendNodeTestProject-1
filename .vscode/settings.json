@@ -1,0 +1,9 @@
+/* Attitude to hide this exact json file within the project structure 
+but still make all its data available */
+{
+    "files.exclude": {
+        ".vscode/sodium-crane-409711-172b21c991db.json": true,
+    }
+    /* this file contains Google Service account key for the Cloud console 
+    with Google Sheets API credentials */
+}
